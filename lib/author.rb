@@ -26,9 +26,4 @@ attr_accessor :name, :posts, :author
   def self.post_count
     @@post_count
   end
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 3ba7d62a8d7fd1df33610109e9e2e0f04ec28f45
 end

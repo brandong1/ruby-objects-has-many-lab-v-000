@@ -11,16 +11,11 @@ class Post
   rescue
     nil
   end
-
 end
-
     if self.author
       self.author.name
     else
       nil
     end
   end
-
-
-end 
-
+end

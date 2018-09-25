@@ -9,9 +9,9 @@ class Post
 #
   def author_name
     self.author.name
-   rescue
+    rescue
     nil
-#   end
+    end
   end
 #     if self.author
 #       self.author.name

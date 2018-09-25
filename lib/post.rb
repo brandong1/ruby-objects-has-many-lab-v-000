@@ -7,12 +7,12 @@ class Post
     @@all << self
   end
 #
-#   def author_name
+  def author_name
 #     self.author.name
 #   rescue
 #     nil
 #   end
-# end
+  end
 #     if self.author
 #       self.author.name
 #     else

@@ -11,7 +11,7 @@ class Post
     self.author.name
     rescue
     nil
-    end
+
   end
 #     if self.author
 #       self.author.name
